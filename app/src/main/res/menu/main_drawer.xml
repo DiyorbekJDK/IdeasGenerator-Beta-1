@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group>
+
+        <item android:title="@string/help" />
+        <item
+            android:id="@+id/help_dialog"
+            android:icon="@drawable/ic_baseline_question_mark_24"
+            android:title="@string/use_text" />
+        <item
+            android:id="@+id/report_bug_link"
+            android:icon="@drawable/ic_baseline_report_gmailerrorred_24"
+            android:title="@string/report_a_bug_text" />
+        <item
+            android:id="@+id/write_coder"
+            android:icon="@drawable/ic_baseline_code_24"
+            android:title="@string/write_a_coder_text" />
+
+
+    </group>
+    <group>
+
+        <item android:title="@string/another" />
+        <item
+            android:id="@+id/rateApp"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="@string/rate_app" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="@string/share_app" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="@string/exit" />
+
+
+    </group>
+
+</menu>

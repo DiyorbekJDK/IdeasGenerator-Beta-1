@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ideas Generator</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_text">Generates Ideas For You</string>
+    <string name="help">Help</string>
+    <string name="use_text">How to use App</string>
+    <string name="report_a_bug_text">Report A Bug</string>
+    <string name="write_a_coder_text">Write a Coder</string>
+    <string name="another">Another</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="exit">Exit</string>
+</resources>
